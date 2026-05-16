@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.myvenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
